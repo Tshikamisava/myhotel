@@ -43,7 +43,7 @@ https://myhotel-kappa.vercel.app
 Clone the project
 
 ```bash
-  git clone https://github.com/Nabia-Sheikh/hotel-management-system.git
+  https://github.com/Tshikamisava/myhotel.git
 ```
 
 Go to the project directory
