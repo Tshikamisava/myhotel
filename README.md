@@ -1,18 +1,16 @@
 
 # Hotel Management System with Admin Panel.
 
-This project is part of the Course of Web & Hybrid development which is taken at Grand Hackathon. 
+This project is part of the codetribe trainee final task. 
 
 ## Repository of Admin Panel
 
-https://github.com/Nabia-Sheikh/hotel-management-admin
 ## Demo of Site
-
-https://hotel-management-by-nabia.netlify.app/
+https://myhotel-kappa.vercel.app
 
 ## Demo of Admin Panel
 
-https://hotel-admin-by-nabia.netlify.app/
+
 
 ## Features
 
